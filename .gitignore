@@ -1,0 +1,4 @@
+node_modules/
+workflows.db
+.DS_Store
+.env
